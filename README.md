@@ -1,4 +1,6 @@
-      	Author: Murat Buyukyoruk
+# fasta_unalignr
+
+Author: Murat Buyukyoruk
 
         fasta_unalignr help:
 
